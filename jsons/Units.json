@@ -5,7 +5,7 @@
 "unitType": "Ranged",		
 "replaces": "Great General",
 "uniqueTo": "Equestria",
-"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[-15]% Strength <vs [Magic] units>", "[-15]% Strength <vs [MagicGunpowder] units>", "Cannot be purchased" 
+"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[-15]% Strength <vs [Magic] units>", "[-15]% Strength <vs [MagicGunpowder] units>", "Cannot be purchased",
 "[+15]% Strength bonus for [Military] units within [2] tiles", 
 "Can instantly construct a [Citadel] improvement <by consuming this unit>", 			
 "Great Person - [War]", "Unbuildable",
@@ -718,7 +718,7 @@
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Magical Rifleman",
+		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
 {
